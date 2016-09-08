@@ -1,0 +1,1 @@
+define([],function(){var n=12304e5;return{name:"bbb",bFn:function(){console.log("this is b.js")},say:function(){alert(n)}}});
